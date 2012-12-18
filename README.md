@@ -1,3 +1,3 @@
 Gestures-Example
 ----------------
-Example of detecting single finger gesture using GestureDetector.
+Example of detecting single finger gestures using GestureDetector.
